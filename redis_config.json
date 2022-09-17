@@ -1,4 +1,4 @@
 {
-    "host": "enter your Public endpoint",
-    "password": "enter your default user password"
+    "host": "Public endpoint",
+    "password": "Default User Password"
 }
