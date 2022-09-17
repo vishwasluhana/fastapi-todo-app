@@ -8,7 +8,7 @@ Database: REDIS
 
 ## Installation
 
-*if you're on Ubuntu, you'll need to run these commands on terminal before going further. Not sure about other linux distros and other platforms*
+*if you are on Ubuntu, you will need to run these commands on terminal before going further. Not sure about other linux distros and other platforms*
 ```
 sudo apt install uvicorn redis-server npm
 ```
