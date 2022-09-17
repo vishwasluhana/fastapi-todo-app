@@ -1,7 +1,9 @@
 # FastAPI Todo App
 
 Frontend: React
+
 Backend: FastAPI
+
 Database: REDIS
 
 ## Installation
@@ -17,6 +19,8 @@ Clone this repository:
 git clone https://github.com/vishwasluhana/fastapi-todo-app
 ```
 
+Change your directory
+
 ```
 cd fastapi-todo-app
 ```
@@ -28,35 +32,43 @@ pip install -r requirements.txt
 ```
 
 *Make sure you have nodejs install to run frontend*
+
 Frontend is forked from [this](https://github.com/scalablescripts/redis-frontend) repository.
 
 ```
 git clone https://github.com/scalablescripts/redis-frontend
 ```
 
+Change your directory
+
 ```
 cd redis-frontend
 ```
+
+Install the app
 
 ```
 npm i
 ```
 
+Start the app
+
 ```
 npm start
 ```
 
-Go to `https://redis.com`
+Now, Go to `https://redis.com`
 
 Login for free and it will auto-create a database for you.
 
 Copy system generated `Public endpoint` and `Default user password` and paste it in `redis_config.json` file.
 
+Go back to the project directory
 
-go back to the project directory
 ```
 cd ..
 ```
+
 Run the application
 
 ```
