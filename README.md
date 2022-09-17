@@ -31,7 +31,7 @@ Install requirements using:
 pip install -r requirements.txt
 ```
 
-*Make sure you have nodejs install to run frontend*
+*Make sure you have nodejs installed to run frontend*
 
 Frontend is forked from [this](https://github.com/scalablescripts/redis-frontend) repository.
 
@@ -57,7 +57,7 @@ Start the app
 npm start
 ```
 
-Now, Go to `https://redis.com`
+Now, go to `https://redis.com`
 
 Login for free and it will auto-create a database for you.
 
