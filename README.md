@@ -1,10 +1,10 @@
 # FastAPI Todo App
 
-Frontend: React
+**Frontend**: React
 
-Backend: FastAPI
+**Backend**: FastAPI
 
-Database: REDIS
+**Database**: REDIS
 
 ## Installation
 
