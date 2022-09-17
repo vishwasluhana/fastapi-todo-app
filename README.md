@@ -31,7 +31,7 @@ Install requirements using:
 pip install -r requirements.txt
 ```
 
-*Make sure you have nodejs installed to run frontend*
+> *Make sure you have nodejs installed to run frontend*
 
 Frontend is forked from [this](https://github.com/scalablescripts/redis-frontend) repository.
 
